@@ -1,7 +1,7 @@
 name: Manifest
 website_url: https://manifest.build
 source_code_url: https://github.com/mnfst/manifest
-description: Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK.
+description: Open-source LLM router for OpenClaw and personal AI agents. Route requests intelligently, reduce costs, add fallbacks, and set spending limits.
 licenses:
   - MIT
 platforms:
